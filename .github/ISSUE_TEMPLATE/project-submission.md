@@ -16,10 +16,10 @@ about: You've created a use-case for the Brain Juice competition, submit it here
 
 *Checklist of criteria (please mark):*
 - [ ] Using Golem network
-- [ ] Using yajsapi
-- [ ] Work in a browser, in “serverless” model, ie. where a daemon instance is hosted in the cloud (ie. javascript is used to call Yagna low level APIs)...
+- [ ] Using [yajsapi](https://github.com/golemfactory/yajsapi)
+- [ ] Works in a browser, in “serverless” model, ie. where a daemon instance is hosted in the cloud (ie. javascript is used to call Yagna low level APIs)...
 - [ ] ...OR work in the browser (including golem daemon in browser)
 - [ ] ...OR work in the backend (node.js)
 - [ ] Link to your PR (below)
 
-*Pull Request:*
+*Pull Request No.:*
